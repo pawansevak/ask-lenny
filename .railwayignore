@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.md
+setup.sh
+ingest_transcripts.py
+check_setup.py
+quick_start.py
+env-template.txt
