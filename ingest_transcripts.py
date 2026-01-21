@@ -239,7 +239,7 @@ def main():
     print()
     
     # Path to transcripts (now included in repo)
-    transcripts_path = "./transcripts/episodes"
+    transcripts_path = "./transcripts"
     
     if not os.path.exists(transcripts_path):
         print("❌ Transcripts folder not found!")
